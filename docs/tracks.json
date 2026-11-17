@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-17",
+  "tracks": [
+    {
+      "id": "purrple-cat-twilight-market",
+      "title": "Twilight Market",
+      "artist": "Purrple Cat",
+      "album": "City Nights 2",
+      "durationSec": 175,
+      "file": "purrple-cat-city-nights-2-01-twilight-market_afce47e2.mp3",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://purrplecat.com",
+      "modified": false
+    },
+    {
+      "id": "purrple-cat-rooftop-rendezvous",
+      "title": "Rooftop Rendezvous",
+      "artist": "Purrple Cat",
+      "album": "City Nights 2",
+      "durationSec": 184,
+      "file": "purrple-cat-city-nights-2-02-rooftop-rendezvous_25a6b224.mp3",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://purrplecat.com",
+      "modified": false
+    },
+    {
+      "id": "purrple-cat-lonely",
+      "title": "Lonely",
+      "artist": "Purrple Cat",
+      "album": "City Nights 2",
+      "durationSec": 176,
+      "file": "purrple-cat-city-nights-2-07-lonely_26f60337.mp3",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://purrplecat.com",
+      "modified": false
+    },
+    {
+      "id": "purrple-cat-walking-to-the-park-at-3am",
+      "title": "Walking to the Park at 3 A.M.",
+      "artist": "Purrple Cat",
+      "album": "Indigo Dreams",
+      "durationSec": 202,
+      "file": "purrple-cat-indigo-dreams-07-walking-to-the-park-at-3-a-m_8fae33b8.mp3",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://purrplecat.com",
+      "modified": false
+    },
+    {
+      "id": "purrple-cat-starlit-beach",
+      "title": "Starlit Beach",
+      "artist": "Purrple Cat",
+      "album": "Sea of Stars 2",
+      "durationSec": 174,
+      "file": "purrple-cat-sea-of-stars-2-10-starlit-beach_715e8b5f.mp3",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://purrplecat.com",
+      "modified": false
+    },
+    {
+      "id": "holizna-cc0-into-the-mist",
+      "title": "Into The Mist",
+      "artist": "HoliznaCC0",
+      "album": "Public Domain Lofi",
+      "durationSec": 130,
+      "file": "holizna-cc0-into-the-mist.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi",
+      "modified": false
+    },
+    {
+      "id": "holizna-cc0-before-everything",
+      "title": "Before Everything",
+      "artist": "HoliznaCC0",
+      "album": "Public Domain Lofi",
+      "durationSec": 171,
+      "file": "holizna-cc0-before-everything.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi",
+      "modified": false
+    },
+    {
+      "id": "holizna-cc0-theta-frequency",
+      "title": "Theta Frequency",
+      "artist": "HoliznaCC0",
+      "album": "Public Domain Lofi",
+      "durationSec": 127,
+      "file": "holizna-cc0-theta-frequency.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi",
+      "modified": false
+    },
+    {
+      "id": "holizna-cc0-birds",
+      "title": "Birds",
+      "artist": "HoliznaCC0",
+      "album": "Public Domain Lofi",
+      "durationSec": 170,
+      "file": "holizna-cc0-birds.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi",
+      "modified": false
+    },
+    {
+      "id": "holizna-cc0-when-time-called-me-darling",
+      "title": "When Time Called Me Darling",
+      "artist": "HoliznaCC0",
+      "album": "Public Domain Lofi",
+      "durationSec": 215,
+      "file": "holizna-cc0-when-time-called-me-darling.mp3",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/public-domain-lofi",
+      "modified": false
+    },
+    {
+      "id": "ikkun-barradeen-whisper",
+      "title": "whisper",
+      "artist": "ikkun (ex. Barradeen)",
+      "album": "Free Stock Music",
+      "durationSec": 66,
+      "file": "ikkun-barradeen-whisper.mp3",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en_US",
+      "sourceUrl": "https://soundcloud.com/ikkunwastaken",
+      "modified": false
+    }
+  ]
+}
