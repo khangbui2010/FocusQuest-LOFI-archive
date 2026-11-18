@@ -1,0 +1,27 @@
+Project này chỉ lưu trữ nhạc, không xây app. Repo đã có nội dung (docs/tracks/, docs/meta/, docs/tracks.json, docs/LICENSES.md, scripts/build-catalog.mjs, .github/workflows/build-catalog.yml, CONTRIBUTING.md). Hãy ĐỌC CONTRIBUTING.md trước và làm đúng quy tắc trong đó.
+
+Với MỖI bài mới tôi upload (theo bảng ở cuối):
+1. Đặt file mp3 GỐC vào docs/tracks/ với đúng tên file trong cột "file". KHÔNG sửa, nén lại, cắt, đổi định dạng hay đổi tên file.
+2. Tạo docs/meta/<id>.json (tên file = id), nội dung theo đúng cấu trúc sau, các trường lấy CHỈ từ bảng:
+{
+  "id": "...",
+  "title": "...",
+  "artist": "...",
+  "album": "...",
+  "durationSec": 123,
+  "file": "ten-file.mp3",
+  "license": "CC0-1.0 | CC-BY-4.0 | CC-BY-3.0 | CC-BY-SA-3.0 | CC-BY-SA-4.0",
+  "licenseUrl": "https://...",
+  "sourceUrl": "https://...",
+  "modified": false,
+  "attribution": "câu ghi công đầy đủ (tùy chọn)"
+}
+   Quy tắc: id khớp ^[a-z0-9-]+$ và trùng tên file .json; durationSec là số nguyên; licenseUrl và sourceUrl phải là https; "license" chỉ được là một trong năm giá trị trên; không thêm trường nào khác.
+3. TUYỆT ĐỐI KHÔNG tự đoán hay đổi giấy phép, tác giả, link nguồn, thời lượng. Nếu bảng thiếu hoặc mơ hồ ở bài nào thì KHÔNG tạo bài đó, hãy liệt kê lại và hỏi tôi.
+4. KHÔNG tạo, sửa hay xóa docs/tracks.json, docs/LICENSES.md, các file trong docs/meta/ của bài khác, hay bất kỳ file nào khác. Chỉ THÊM file mới. GitHub Action sẽ tự gộp thành tracks.json.
+5. Cuối cùng liệt kê: các file bạn đã thêm (đường dẫn + dung lượng), và xác nhận không có file cũ nào bị thay đổi.
+
+BẢNG BÀI MỚI:
+| id | title | artist | album | durationSec | file | license | licenseUrl | sourceUrl | modified |
+|---|---|---|---|---|---|---|---|---|---|
+| <<điền>> | | | | | | | | | false |
