@@ -41,3 +41,11 @@
 | Title | Album | License | Source | File | Modified |
 |---|---|---|---|---|---|
 | Stopping By The Café |  | [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [link](https://audiolibrary.com.co/musicbyaden/stopping-by-the-cafe) | `stopping-by-the-cafe-by-musicbyaden_4dcfdca6.mp3` | No |
+
+## Muciojad
+
+> Fridge by Muciojad | https://soundcloud.com/muciojad — Free Download / Stream: https://links.al/hIS — Music promoted by Audio Library: https://links.al/youtube — Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
+
+| Title | Album | License | Source | File | Modified |
+|---|---|---|---|---|---|
+| Fridge |  | [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [link](https://audiolibrary.com.co/muciojad/fridge) | `fridge-by-muciojad_1038adee.mp3` | No |

@@ -145,6 +145,18 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "sourceUrl": "https://audiolibrary.com.co/musicbyaden/stopping-by-the-cafe",
       "modified": false
+    },
+    {
+      "id": "muciojad-fridge",
+      "title": "Fridge",
+      "artist": "Muciojad",
+      "album": "",
+      "durationSec": 223,
+      "file": "fridge-by-muciojad_1038adee.mp3",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://audiolibrary.com.co/muciojad/fridge",
+      "modified": false
     }
   ]
 }
