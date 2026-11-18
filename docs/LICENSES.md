@@ -33,3 +33,11 @@
 | Title | Album | License | Source | File | Modified |
 |---|---|---|---|---|---|
 | whisper | Free Stock Music | [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en_US) | [link](https://soundcloud.com/ikkunwastaken) | `ikkun-barradeen-whisper.mp3` | No |
+
+## MusicbyAden
+
+> Stopping By The Café by MusicbyAden | https://soundcloud.com/musicbyaden — Free Download / Stream: https://links.al/zVz — Music promoted by Audio Library: https://links.al/youtube — Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0): https://creativecommons.org/licenses/by-sa/3.0/
+
+| Title | Album | License | Source | File | Modified |
+|---|---|---|---|---|---|
+| Stopping By The Café |  | [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [link](https://soundcloud.com/musicbyaden) | `stopping-by-the-cafe-by-musicbyaden_4dcfdca6.mp3` | No |

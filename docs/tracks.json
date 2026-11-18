@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "tracks": [
     {
       "id": "purrple-cat-twilight-market",
@@ -132,6 +132,18 @@
       "license": "CC-BY-SA-3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/deed.en_US",
       "sourceUrl": "https://soundcloud.com/ikkunwastaken",
+      "modified": false
+    },
+    {
+      "id": "musicbyaden-stopping-by-the-cafe",
+      "title": "Stopping By The Café",
+      "artist": "MusicbyAden",
+      "album": "",
+      "durationSec": 192,
+      "file": "stopping-by-the-cafe-by-musicbyaden_4dcfdca6.mp3",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourceUrl": "https://soundcloud.com/musicbyaden",
       "modified": false
     }
   ]
