@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "tracks": [
     {
       "id": "purrple-cat-twilight-market",
@@ -156,6 +156,18 @@
       "license": "CC-BY-SA-3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "sourceUrl": "https://audiolibrary.com.co/muciojad/fridge",
+      "modified": false
+    },
+    {
+      "id": "snoozybeats-chill-days",
+      "title": "chill days",
+      "artist": "Snoozy Beats",
+      "album": "",
+      "durationSec": 131,
+      "file": "chill-days-by-snoozybeats.mp3",
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceUrl": "https://audiolibrary.com.co/snoozybeats/chill-days",
       "modified": false
     }
   ]

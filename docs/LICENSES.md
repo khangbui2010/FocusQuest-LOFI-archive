@@ -49,3 +49,11 @@
 | Title | Album | License | Source | File | Modified |
 |---|---|---|---|---|---|
 | Fridge |  | [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/) | [link](https://audiolibrary.com.co/muciojad/fridge) | `fridge-by-muciojad_1038adee.mp3` | No |
+
+## Snoozy Beats
+
+> chill days by Snoozy Beats | https://soundcloud.com/snoozybeats — Free Download / Stream: https://links.al/oaC — Music promoted by Audio Library: https://links.al/youtube — Creative Commons — Attribution 3.0 Unported — CC BY 3.0: https://creativecommons.org/licenses/by/3.0/
+
+| Title | Album | License | Source | File | Modified |
+|---|---|---|---|---|---|
+| chill days |  | [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/) | [link](https://audiolibrary.com.co/snoozybeats/chill-days) | `chill-days-by-snoozybeats.mp3` | No |
